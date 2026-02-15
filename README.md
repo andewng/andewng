@@ -7,6 +7,8 @@ I enjoy data analytics and machine learning projects
   <a href="https://www.linkedin.com/in/andrew-ng-814a87238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   <a href="https://www.carousell.sg/p/cheapest-python-power-bi-assignment-project-help-debug-tutoring-1348474865/?t-id=dyoPRhwFrO_1771183658026&t-referrer_browse_type=seller&t-referrer_page_type=profile&t-referrer_request_id=myC_5UPHE9acQlIr&t-tap_index=2" target="_blank">
+    <img src="https://img.shields.io/badge/Carousell-FF5A5F?style=for-the-badge&logo=carousell&logoColor=white" />
 </p>
 
 <h2>Technologies &amp; Skills</h2>
